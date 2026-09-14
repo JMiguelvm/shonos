@@ -9,7 +9,7 @@ Identificar patrones de distribución territorial, tipos de vehículos involucra
 ## ¿Como importar cuaderno en Google Colab?
 
 1. **Una vez cargado el cuaderno en colab vamos a**
-   La parte del medio izquierda, a la penultima opción que dice **Archivo** -> .. esperamos que cargue .. -> **Subimos el contenido que está DENTRO de la carpeta**, y arrastramos el contenido. Una vez hecho esto podemos ejecutar el cuaderno con normalidad.
+   La parte del medio izquierda, a la penultima opción que dice **Archivo** -> .. esperamos que cargue .. -> **Subimos el contenido que está DENTRO de la carpeta *Data***, y arrastramos el contenido. Una vez hecho esto podemos ejecutar el cuaderno con normalidad.
 
 ## ¿Qué se hace?
 
